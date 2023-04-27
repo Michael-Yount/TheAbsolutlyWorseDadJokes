@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TheAbsolutlyWorseDadJokes//react-gh-pages/static/css/main.974b7111.css",
+    "main.js": "/TheAbsolutlyWorseDadJokes//react-gh-pages/static/js/main.3778f24d.js",
+    "static/js/787.68147d9f.chunk.js": "/TheAbsolutlyWorseDadJokes//react-gh-pages/static/js/787.68147d9f.chunk.js",
+    "index.html": "/TheAbsolutlyWorseDadJokes//react-gh-pages/index.html",
+    "main.974b7111.css.map": "/TheAbsolutlyWorseDadJokes//react-gh-pages/static/css/main.974b7111.css.map",
+    "main.3778f24d.js.map": "/TheAbsolutlyWorseDadJokes//react-gh-pages/static/js/main.3778f24d.js.map",
+    "787.68147d9f.chunk.js.map": "/TheAbsolutlyWorseDadJokes//react-gh-pages/static/js/787.68147d9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974b7111.css",
+    "static/js/main.3778f24d.js"
+  ]
+}
