@@ -9,7 +9,7 @@ function App() {
 
   useEffect(() => {
     
-  const loadData =async () => {
+  const loadData = async () => {
     const response = await axios.get("https://icanhazdadjoke.com/", {headers: {Accept:"application/json"}})
     console.log(response.data.joke);
     setJoke(response.data.joke);
