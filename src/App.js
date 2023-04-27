@@ -20,9 +20,9 @@ useEffect (() => {
 
   return (
     <div className="container">
-        <h2 className='title'>The Absolute Best Dad jokes.</h2>
+        <h2 className='title'>The Absolute Best/Worst Dad jokes.</h2>
         <div className="joke">{joke}</div>
-        <button className='btn btn-outline-primary' onClick={() => setState(state + 1)}>Get Another Joke</button>
+        <button className='btn btn-primary' onClick={() => setState(state + 1)}>Get Another Joke</button>
       </div>
   )
 }
