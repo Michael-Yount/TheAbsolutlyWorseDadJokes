@@ -25,7 +25,7 @@ const handleClick = (event) => {
 
   return (
     <div className="container">
-        <h2 className='title'>The Absolutely Worst Dad jokes.</h2>
+        <h2 className='title'>The Absolutely Best Dad jokes.</h2>
         <div className="joke">{joke}</div>
         <button className="btn btn-primary" onClick={handleClick}>Get Another Joke</button>
       </div>
