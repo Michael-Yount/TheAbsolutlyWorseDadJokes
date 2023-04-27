@@ -1,26 +1,33 @@
 import React, { useState,useEffect } from 'react';
-import axios from 'axios';
+import axios from './axios';
+import './App.css';
 
 
 function App() {
   //data storage
-  const [data, setData] = useState([]);
+  const [joke, setJoke] = useState([]);
 
   useEffect(() => {
     
   const loadData =async () => {
     const response = await axios.get("https://icanhazdadjoke.com/")
-    console.log(response);
-    setData(response);
+    console.log(response.joke);
+    setJoke(response.joke);
   }
   loadData();
 }, []);
 
+const handleClick = (event) => {
+  console.log('clicked');
+
+
+};
+
   return (
     <div className="container">
-        <h3>The absolutly Worst Dad jokes.</h3>
-        <div className="joke" id="joke"></div>
-        <button className="btn" id="get_joke">Get Another Joke</button>
+        <h2 className='title'>The Absolutely Worst Dad jokes.</h2>
+        <div className="joke">{joke}</div>
+        <button className="btn btn-primary" onClick={handleClick}>Get Another Joke</button>
       </div>
   )
 }
