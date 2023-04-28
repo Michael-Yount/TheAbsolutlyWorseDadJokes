@@ -49,7 +49,7 @@
   box-shadow: 0em .5em .5em rgba(0, 0, 0, 0.751);
 }
 .btn:hover {
-  background: #e48603;
+  background: #c38801;
   transform: scale(1.1);
 }
 .btn:active {
