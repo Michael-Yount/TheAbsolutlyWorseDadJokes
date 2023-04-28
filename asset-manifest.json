@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TheAbsolutlyWorseDadJokes/static/css/main.b9186f36.css",
+    "main.css": "/TheAbsolutlyWorseDadJokes/static/css/main.a774a2b7.css",
     "main.js": "/TheAbsolutlyWorseDadJokes/static/js/main.9857e1f7.js",
     "static/js/787.68147d9f.chunk.js": "/TheAbsolutlyWorseDadJokes/static/js/787.68147d9f.chunk.js",
     "index.html": "/TheAbsolutlyWorseDadJokes/index.html",
-    "main.b9186f36.css.map": "/TheAbsolutlyWorseDadJokes/static/css/main.b9186f36.css.map",
+    "main.a774a2b7.css.map": "/TheAbsolutlyWorseDadJokes/static/css/main.a774a2b7.css.map",
     "main.9857e1f7.js.map": "/TheAbsolutlyWorseDadJokes/static/js/main.9857e1f7.js.map",
     "787.68147d9f.chunk.js.map": "/TheAbsolutlyWorseDadJokes/static/js/787.68147d9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9186f36.css",
+    "static/css/main.a774a2b7.css",
     "static/js/main.9857e1f7.js"
   ]
 }
