@@ -6,7 +6,7 @@ This was a great learning exercise. I fully grasped the useEffect and useState H
 
 ## This is a API fetch project thet I am updated for my studies at MIT full stack coding course.
 
-### Here is the webapp. CHeck it Out! https://michael-yount.github.io/TheAbsolutlyWorseDadJokes/
+### Here is the web app. Check it Out! https://michael-yount.github.io/TheAbsolutlyWorseDadJokes/
 
 
 ### This was code that I have written while diving deep into useEffect hook in React. 
